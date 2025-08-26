@@ -36,6 +36,4 @@
 
 ---
 
-⭐ *“Code, Learn, Repeat.”*
-Recommendation: Replace placeholder email/LinkedIn with your actual links.
-Next step: Copy this into a `README.md` file in your GitHub profile repository.
+⭐ *“Code, Learn, Repeat.”
