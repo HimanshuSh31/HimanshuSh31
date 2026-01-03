@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himanshu Sharma
 
-🎓 Third-year **B.Tech CSE (AI/ML)** student with a prior **Diploma in Computer Science Engineering**.
+🎓 Junior **B.Tech CSE (AI/ML)** student with a prior **Diploma in Computer Science Engineering**.
 💻 Passionate about Artificial Intelligence, Machine Learning, and Data-Driven Applications.
 
 ---
