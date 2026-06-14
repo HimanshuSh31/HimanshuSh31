@@ -51,16 +51,8 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
   - Presented research papers at two National Conferences (focusing on AI in medical fields and deep learning-based sentiment analysis).
   - Participated in two International Conferences focused on Smart Tech and Digital Transformation.
 
----
 
-## 📊 GitHub Profile Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSh31&show_icons=true&theme=shadow_red&locale=en" alt="Himanshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSh31&layout=compact&theme=shadow_red" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ## 📬 Let's Connect!
 
