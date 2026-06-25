@@ -2,8 +2,6 @@
 
 ### AI/ML Enthusiast & Software Engineer | Open to Full-time Roles
 
-![Himanshu Sharma Banner](./linkedin_banner.png)
-
 I'm a passionate developer focused on building intelligent systems, data-driven applications, and interactive simulations. Currently pursuing my **B.Tech in Computer Science (Artificial Intelligence & Machine Learning)** at Kalinga University, following a **CS Diploma** (9.17 CGPA), where I served as the Vice President of the CS & IT Department.
 
 ---
