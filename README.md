@@ -79,6 +79,7 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 | **🎵 Music Recommendation System** | `Python`, `Pandas`, `NumPy` | [📁 Repo](https://github.com/HimanshuSh31/Music-Recommendation-System) | Recommendation system generating popularity weights and cosine similarity suggestions. |
 | **👾 Tic-Tac-Toe** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Tic_Tac_Toe) · [🌐 Live Demo](https://himanshush31.github.io/Tic_Tac_Toe/) | Space-themed interactive Tic-Tac-Toe browser game featuring a responsive layout and nebula aesthetics. |
 | **✊ Stone Paper Scissors** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Stone_Paper_Scissor) · [🌐 Live Demo](https://himanshush31.github.io/Stone_Paper_Scissor/) | Classic hand-game simulator featuring score-tracking and automated computer decision logic. |
+| **🤖 AegisPact.AI** | `Python`, `RAG`, `NLP`, `MLOps` | [📁 Repo](https://github.com/HimanshuSh31/AegisPact.AI) | Automated Multi-Modal Contract & Compliance Auditor with Hybrid RAG (Dense + BM25) and Ragas evaluation scorecards. |
 
 
 ---
