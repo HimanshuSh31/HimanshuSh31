@@ -66,6 +66,34 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 
 ---
 
+## 🚀 Featured Projects & Repositories
+
+| Project Card / Name | Tech Stack | Quick Links | Description |
+| :--- | :--- | :--- | :--- |
+| **💼 Personal Wealth Manager** | `Python`, `PyQt6`, `SQLite` | [📁 Repo](https://github.com/HimanshuSh31/Personal-Wealth-Manager) | Secure desktop app featuring encrypted storage and interactive Plotly visualization dashboards. |
+| **🏥 Pharmacy Management System** | `Python`, `SQL` | [📁 Repo](https://github.com/HimanshuSh31/Pharmacy-Management-System) | Role-based operations dashboard with interactive database transactional workflows. |
+| **👁️ Computer Vision Face Detector** | `Python`, `OpenCV`, `Dlib` | [📁 Repo](https://github.com/HimanshuSh31/Computer-Vision-Face-Detector) | Real-time object tracking utilizing CNNs, Haar Cascades, and HOG models. |
+| **🎮 Customer is King** | `Unity`, `C#`, `Firebase` | [📁 Repo](https://github.com/HimanshuSh31/Customer-is-King) | Strategic business simulation game with database-driven broker trading environments. |
+| **🎬 Movie Recommendation System** | `Python`, `Jupyter` | [📁 Repo](https://github.com/HimanshuSh31/Movie-Recommendation-System) | Personalized title selector implementing collaborative filtering and item-similarity engines. |
+| **🏍️ Bike Showroom Management** | `C#`, `.NET`, `SQL Server` | [📁 Repo](https://github.com/HimanshuSh31/Bike-Showroom-Management) | Enterprise automation platform for inventory control, billing invoicing, and sales logs. |
+| **🎵 Music Recommendation System** | `Python`, `Pandas`, `NumPy` | [📁 Repo](https://github.com/HimanshuSh31/Music-Recommendation-System) | Recommendation system generating popularity weights and cosine similarity suggestions. |
+| **👾 Classic Web Games Collection** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Classic-Web-Games) · [🌐 Live Demo](https://himanshush31.github.io/Classic-Web-Games/) | Space-themed browser retro games highlighting clean vanilla DOM and styling dynamics. |
+
+---
+
+## 📊 GitHub Profile Stats & Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSh31&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&icon_color=8b5cf6&border_color=1f2937&border_radius=12" alt="Himanshu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSh31&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&icon_color=8b5cf6&border_color=1f2937&border_radius=12" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HimanshuSh31&background=0d1117&border=1f2937&stroke=1f2937&ring=8b5cf6&fire=a78bfa&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=cbd5e1&border_radius=12" alt="GitHub Streak Stats" width="98%" />
+</p>
+
+---
+
 ## 📬 Let's Connect!
 
 I'm currently seeking full-time roles in AI/ML engineering, data analysis, and software development. Feel free to reach out:
