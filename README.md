@@ -79,18 +79,6 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 | **🎵 Music Recommendation System** | `Python`, `Pandas`, `NumPy` | [📁 Repo](https://github.com/HimanshuSh31/Music-Recommendation-System) | Recommendation system generating popularity weights and cosine similarity suggestions. |
 | **👾 Classic Web Games Collection** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Classic-Web-Games) · [🌐 Live Demo](https://himanshush31.github.io/Classic-Web-Games/) | Space-themed browser retro games highlighting clean vanilla DOM and styling dynamics. |
 
----
-
-## 📊 GitHub Profile Stats & Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSh31&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&icon_color=8b5cf6&border_color=1f2937&border_radius=12" alt="Himanshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSh31&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&icon_color=8b5cf6&border_color=1f2937&border_radius=12" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HimanshuSh31&background=0d1117&border=1f2937&stroke=1f2937&ring=8b5cf6&fire=a78bfa&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=cbd5e1&border_radius=12" alt="GitHub Streak Stats" width="98%" />
-</p>
 
 ---
 
