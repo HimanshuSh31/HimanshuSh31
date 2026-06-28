@@ -71,7 +71,7 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 | Project Card / Name | Tech Stack | Quick Links | Description |
 | :--- | :--- | :--- | :--- |
 | **💼 Personal Wealth Manager** | `Python`, `PyQt6`, `SQLite` | [📁 Repo](https://github.com/HimanshuSh31/Personal-Wealth-Manager) | Secure desktop app featuring encrypted storage and interactive Plotly visualization dashboards. |
-| **🏥 Pharmacy Management System** | `Python`, `SQL` | [📁 Repo](https://github.com/HimanshuSh31/Pharmacy-Management-System) | Role-based operations dashboard with interactive database transactional workflows. |
+| **🏥 Clinipharm_IQ** | `Python`, `SQL` | [📁 Repo](https://github.com/HimanshuSh31/Clinipharm_IQ) | Role-based operations dashboard with interactive database transactional workflows. |
 | **👁️ Computer Vision Face Detector** | `Python`, `OpenCV`, `Dlib` | [📁 Repo](https://github.com/HimanshuSh31/Computer-Vision-Face-Detector) | Real-time object tracking utilizing CNNs, Haar Cascades, and HOG models. |
 | **🎮 Customer is King** | `Unity`, `C#`, `Firebase` | [📁 Repo](https://github.com/HimanshuSh31/Customer-is-King) | Strategic business simulation game with database-driven broker trading environments. |
 | **🎬 Movie Recommendation System** | `Python`, `Jupyter` | [📁 Repo](https://github.com/HimanshuSh31/Movie-Recommendation-System) | Personalized title selector implementing collaborative filtering and item-similarity engines. |
