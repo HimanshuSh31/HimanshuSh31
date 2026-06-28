@@ -77,7 +77,8 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 | **🎬 Movie Recommendation System** | `Python`, `Jupyter` | [📁 Repo](https://github.com/HimanshuSh31/Movie-Recommendation-System) | Personalized title selector implementing collaborative filtering and item-similarity engines. |
 | **🏍️ Bike Showroom Management** | `C#`, `.NET`, `SQL Server` | [📁 Repo](https://github.com/HimanshuSh31/Bike-Showroom-Management) | Enterprise automation platform for inventory control, billing invoicing, and sales logs. |
 | **🎵 Music Recommendation System** | `Python`, `Pandas`, `NumPy` | [📁 Repo](https://github.com/HimanshuSh31/Music-Recommendation-System) | Recommendation system generating popularity weights and cosine similarity suggestions. |
-| **👾 Classic Web Games Collection** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Classic-Web-Games) · [🌐 Live Demo](https://himanshush31.github.io/Classic-Web-Games/) | Space-themed browser retro games highlighting clean vanilla DOM and styling dynamics. |
+| **👾 Tic-Tac-Toe** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Tic_Tac_Toe) · [🌐 Live Demo](https://himanshush31.github.io/Tic_Tac_Toe/) | Space-themed interactive Tic-Tac-Toe browser game featuring a responsive layout and nebula aesthetics. |
+| **✊ Stone Paper Scissors** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Stone_Paper_Scissor) · [🌐 Live Demo](https://himanshush31.github.io/Stone_Paper_Scissor/) | Classic hand-game simulator featuring score-tracking and automated computer decision logic. |
 
 
 ---
