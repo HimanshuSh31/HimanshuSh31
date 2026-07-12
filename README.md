@@ -89,13 +89,13 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 Verified digital credentials issued by accredited platforms:
 
 <a href="https://www.credly.com/badges/284ab5a3-fdc4-4cf4-b4bb-a88c815bd93c" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/284ab5a3-fdc4-4cf4-b4bb-a88c815bd93c/image.png" alt="Introduction to Cybersecurity – Cisco" width="120" />
+  <img src="badges/cisco_cybersecurity.png" alt="Introduction to Cybersecurity – Cisco" width="120" />
 </a>&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/f5f15550-714b-4a65-a6e8-3057546c3ef7" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/f5f15550-714b-4a65-a6e8-3057546c3ef7/image.png" alt="Introduction to IoT – Cisco" width="120" />
+  <img src="badges/cisco_iot.png" alt="Introduction to IoT – Cisco" width="120" />
 </a>&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/73cf626a-1cba-42f7-bc3c-4466f1176fb6" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/73cf626a-1cba-42f7-bc3c-4466f1176fb6/image.png" alt="Share Data using Google Data Cloud – Google Cloud" width="120" />
+  <img src="badges/google_share_data.png" alt="Share Data using Google Data Cloud – Google Cloud" width="120" />
 </a>
 
 ---
