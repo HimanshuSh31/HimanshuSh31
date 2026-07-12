@@ -54,6 +54,14 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
   - Created high-quality audio-visual educational materials to train external partners on newly deployed automation tools.
   - Delivered custom projects and software prototypes within strict sprints and deadlines, maintaining robust version control.
 
+- **Python Developer Freelancer (Part-time)** @ *Outlier* (May 2025 - September 2025)
+  - **Automation & Optimization:** Engineered 15+ Python automation scripts, reducing manual processing time by ~40% and system latency by ~30%.
+  - **AI Integration:** Integrated AI-driven features into 3+ production environments, resolving critical system bottlenecks.
+
+- **Prompt Engineer Freelancer (Part-time)** @ *Soul AI by Deccan AI* (February 2025 - May 2025)
+  - **Prompt Engineering:** Designed 150+ high-quality LLM prompts, improving AI content consistency and quality scores by ~25%.
+  - **Model Research:** Evaluated 10+ GenAI architectures; partnered with R&D teams to implement data-driven fine-tuning strategies.
+
 ---
 
 ## 📚 Publications & Conferences
@@ -72,13 +80,14 @@ Check out my full personal portfolio, redesigned with a modern glassmorphic look
 | :--- | :--- | :--- | :--- |
 | **💼 Personal Wealth Manager** | `Python`, `PyQt6`, `SQLite` | [📁 Repo](https://github.com/HimanshuSh31/Personal-Wealth-Manager) | Secure desktop app featuring encrypted storage and interactive Plotly visualization dashboards. |
 | **🏥 Clinipharm_IQ** | `Python`, `SQL` | [📁 Repo](https://github.com/HimanshuSh31/Clinipharm_IQ) | Role-based operations dashboard with interactive database transactional workflows. |
-| **👁️ Computer Vision Face Detector** | `Python`, `OpenCV`, `Dlib` | [📁 Repo](https://github.com/HimanshuSh31/Computer-Vision-Face-Detector) | Real-time object tracking utilizing CNNs, Haar Cascades, and HOG models. |
+| **👁️ Computer Vision Face Detector** | `Python`, `OpenCV`, `Dlib` | [📁 Repo](https://github.com/HimanshuSh31/Face-Detection) | Real-time object tracking utilizing CNNs, Haar Cascades, and HOG models. |
 | **🎮 Customer is King** | `Unity`, `C#`, `Firebase` | [📁 Repo](https://github.com/HimanshuSh31/Customer-is-King) | Strategic business simulation game with database-driven broker trading environments. |
-| **🎬 Movie Recommendation System** | `Python`, `Jupyter` | [📁 Repo](https://github.com/HimanshuSh31/Movie-Recommendation-System) | Personalized title selector implementing collaborative filtering and item-similarity engines. |
-| **🏍️ Bike Showroom Management** | `C#`, `.NET`, `SQL Server` | [📁 Repo](https://github.com/HimanshuSh31/Bike-Showroom-Management) | Enterprise automation platform for inventory control, billing invoicing, and sales logs. |
-| **🎵 Music Recommendation System** | `Python`, `Pandas`, `NumPy` | [📁 Repo](https://github.com/HimanshuSh31/Music-Recommendation-System) | Recommendation system generating popularity weights and cosine similarity suggestions. |
+| **🎬 Movie Recommendation System** | `Python`, `Jupyter` | [📁 Repo](https://github.com/HimanshuSh31/Movie_Recommendation_System) | Personalized title selector implementing collaborative filtering and item-similarity engines. |
+| **🏍️ Bike Showroom Management** | `C#`, `.NET`, `SQL Server` | [📁 Repo](https://github.com/HimanshuSh31/Bike_Showroom_Management) | Enterprise automation platform for inventory control, billing invoicing, and sales logs. |
+| **🎵 Music Recommendation System** | `Python`, `Pandas`, `NumPy` | [📁 Repo](https://github.com/HimanshuSh31/Music_Recommendation_System) | Recommendation system generating popularity weights and cosine similarity suggestions. |
 | **👾 Tic-Tac-Toe** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Tic_Tac_Toe) · [🌐 Live Demo](https://himanshush31.github.io/Tic_Tac_Toe/) | Space-themed interactive Tic-Tac-Toe browser game featuring a responsive layout and nebula aesthetics. |
 | **✊ Stone Paper Scissors** | `HTML`, `CSS`, `JavaScript` | [📁 Repo](https://github.com/HimanshuSh31/Stone_Paper_Scissor) · [🌐 Live Demo](https://himanshush31.github.io/Stone_Paper_Scissor/) | Classic hand-game simulator featuring score-tracking and automated computer decision logic. |
+| **🧠 OnBoard NOVA** | `Python`, `Streamlit`, `LLMs` | [📁 Repo](https://github.com/HimanshuSh31/OnBoard_AI) | AI-powered onboarding assistant leveraging LLMs to streamline query resolution, reducing response times by ~40%. |
 | **🤖 AegisPact.AI** | `Python`, `RAG`, `NLP`, `MLOps` | [📁 Repo](https://github.com/HimanshuSh31/AegisPact.AI) | Automated Multi-Modal Contract & Compliance Auditor with Hybrid RAG (Dense + BM25) and Ragas evaluation scorecards. |
 
 
